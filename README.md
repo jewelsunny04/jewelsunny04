@@ -47,9 +47,7 @@ Building production-ready AI systems and backend applications. Open to **SWE · 
 
 ## 📊 GitHub Stats
 
-![Jewel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jewelsunny04&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jewelsunny04&layout=compact&theme=tokyonight&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=jewelsunny04&theme=tokyonight&hide_border=true)
 ---
 
 ## 📬 Connect with me
