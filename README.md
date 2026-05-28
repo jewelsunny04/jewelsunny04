@@ -11,9 +11,12 @@ Building production-ready AI systems and backend applications. Open to **SWE · 
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**CareerForge AI**](https://careerforge-ai-km1o.onrender.com/) | RAG-based interview coach with resume ATS scoring, chat & voice support | FastAPI · LangChain · Groq · HuggingFace |
 | [**MediScan AI**](https://mediscan-ai-rnbn.onrender.com/) | AI health report analyzer with PDF extraction, health scoring & recommendations | FastAPI · ChromaDB · LangChain · NLP |
-| [**AcoCheck**](https://github.com/jewelsunny04) | Secure multi-role resident tracking system with Django auth & RBAC | Django · PostgreSQL · Railway |
+| [**CareerForge AI**](https://careerforge-ai-km1o.onrender.com/) | RAG-based interview coach with resume ATS scoring, chat & voice support | FastAPI · LangChain · Groq · HuggingFace |
+| [**AcoCheck**](https://github.com/jewelsunny04) | Secure multi-role resident tracking system with Django auth & RBAC | Django · PostgreSQL · Render |
+| [**NoteEve**](https://github.com/jewelsunny04/NoteEve) | AI managed Notes Management System | JavaScript · HTML · CSS |
+| [**TRADEFLOW**](https://jewelsunny04.github.io/TRADEFLOW/) | Shop management system for real-time inventory and trade tracking | CSS · HTML · JavaScript |
+
 
 ---
 
